@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Covid19Demo</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="di1ti">Google released Android System</string>
+    <string name="q1">Do you live on campus?</string>
+    <string name="q1name">Question1</string>
+    <string name="q1a1">Yes</string>
+    <string name="q1a2">No</string>
+    <string name="di4ti">Android is based on</string>
+    <string name="subscribe">Next</string>
+    <string name="q2name">Question2</string>
+    <string name="q2">Have you had Covid19 before?</string>
+    <string name="q2a1">Yes</string>
+    <string name="q2a2">No</string>
+    <string name="q3name">Question3</string>
+    <string name="q3">How many dosages of vaccination have you taken?</string>
+    <string name="q3a1">1</string>
+    <string name="q3a2">2</string>
+    <string name="q3a3">3</string>
+    <string name="q3a4">4</string>
+    </resources>
